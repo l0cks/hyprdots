@@ -1,0 +1,34 @@
+You Distro is NixOS. Setting up properly.
+[33m[NOTE][m kb_layout [3166mus[m configured in settings.
+[32m[OK][m Default editor set to [3166mvim[m.
+[32m[OK][m You have chosen < 1440p resolution.
+[32m[OK][m Rainbow borders is now disabled.
+[32m[OK][m - Copy completed for [33mags[m
+[32m[OK][m - Copy completed for [33mfastfetch[m
+[32m[OK][m - Copy completed for [33mkitty[m
+[32m[OK][m - Copy completed for [33mrofi[m
+[32m[OK][m - Copy completed for [33mswaync[m
+[32m[OK][m - Copy completed for [33mwaybar[m
+[32m[OK][m Wallpapers downloaded successfully.
+[32m[OK][m Wallpapers copied successfully.
+[[1m[34mI[39m[0m] [1m[35mimage[39m[0m: .wallpaper_modified
+[[1m[34mI[39m[0m] [1m[35mimage parser[39m[0m: Using [94m[1mKmeans[0m[39m backend parser
+[[1m[34mI[39m[0m] [1m[35mthreshold[39m[0m: Using a threshold of 11 in between colors.
+[[1m[34mI[39m[0m] [1m[35mcolorspace[39m[0m: Using [32m[1mLabMixed[0m[39m colorspace variation
+[[1m[34mI[39m[0m] [1m[35mscheme palette[39m[0m: Using [94m[1mDark16[0m[39m palette
+▐⠂       ▌     0.000 s	Generating color scheme..▐⠈       ▌     0.080 s	Generating color scheme..▐ ⠂      ▌     0.160 s	Generating color scheme..▐ ⠠      ▌     0.241 s	Generating color scheme..▐  ⡀     ▌     0.321 s	Generating color scheme..▐  ⠠     ▌     0.401 s	Generating color scheme..▐   ⠂    ▌     0.481 s	Generating color scheme..▐   ⠈    ▌     0.561 s	Generating color scheme..▐    ⠂   ▌     0.641 s	Generating color scheme..▐    ⠠   ▌     0.721 s	Generating color scheme..▐     ⡀  ▌     0.802 s	Generating color scheme..▐     ⠠  ▌     0.882 s	Generating color scheme..▐      ⠂ ▌     0.962 s	Generating color scheme..▐      ⠈ ▌     1.042 s	Generating color scheme..▐       ⠂▌     1.122 s	Generating color scheme..▐       ⠠▌     1.202 s	Generating color scheme..▐       ⡀▌     1.282 s	Generating color scheme..▐      ⠠ ▌     1.363 s	Generating color scheme..▐      ⠂ ▌     1.443 s	Generating color scheme..▐     ⠈  ▌     1.523 s	Generating color scheme..▐     ⠂  ▌     1.603 s	Generating color scheme..▐    ⠠   ▌     1.683 s	Generating color scheme..▐    ⡀   ▌     1.763 s	Generating color scheme..▐   ⠠    ▌     1.843 s	Generating color scheme..▐   ⠂    ▌     1.924 s	Generating color scheme..▐  ⠈     ▌     2.004 s	Generating color scheme..▐  ⠂     ▌     2.060 s	Generating color scheme..[2K[[1m[34mI[39m[0m] Not enough colors in the image, artificially generating new colors...
+[[1m[34mI[39m[0m] [1m[35mfallback generation method[39m[0m: Using [34mInterpolate[39m to fill the palette
+[[1m[34mI[39m[0m] Color scheme palette generated!
+
+[48;2;58;57;64m    [49m[48;2;5;11;38m    [49m[48;2;35;8;15m    [49m[48;2;53;7;1m    [49m[48;2;6;54;95m    [49m[48;2;90;64;34m    [49m[48;2;22;113;161m    [49m[48;2;134;194;227m    [49m
+[48;2;93;136;159m    [49m[48;2;7;15;50m    [49m[48;2;47;11;19m    [49m[48;2;71;9;1m    [49m[48;2;8;72;127m    [49m[48;2;120;86;46m    [49m[48;2;29;150;215m    [49m[48;2;134;194;227m    [49m
+
+[[1m[34mI[39m[0m] [1m[35mtemplates[39m[0m: Writing templates..
+  * Templated [1mkitty[0m to '[3m~/.config/kitty/kitty-colors.conf[0m'
+  * Templated [1mwaybar[0m to '[3m~/.config/waybar/wallust/colors-waybar.css[0m'
+  * Templated [1mrofi[0m to '[3m~/.config/rofi/wallust/colors-rofi.rasi[0m'
+  * Templated [1mcava[0m to '[3m~/.config/cava/config[0m'
+  * Templated [1mhypr[0m to '[3m~/.config/hypr/wallust/wallust-hyprland.conf[0m'
+[[1m[34mI[39m[0m] [1m[35mcache[39m[0m: Saving scheme to cache.
+
+[5m[1m[38;2;134;194;227mE [39m[0m[0m[5m[1m[38;2;29;150;215mN [39m[0m[0m[5m[1m[38;2;120;86;46mJ [39m[0m[0m[5m[1m[38;2;8;72;127mO [39m[0m[0m[5m[1m[38;2;71;9;1mY [39m[0m[0m[9m  [0m[5m[1m[38;2;47;11;19mT [39m[0m[0m[5m[1m[38;2;7;15;50mH [39m[0m[0m[5m[1m[38;2;93;136;159mE [39m[0m[0m[9m  [0m[5m[1m[38;2;134;194;227mP [39m[0m[0m[5m[1m[38;2;22;113;161mA [39m[0m[0m[5m[1m[38;2;90;64;34mL [39m[0m[0m[5m[1m[38;2;6;54;95mE [39m[0m[0m[5m[1m[38;2;53;7;1mT [39m[0m[0m[5m[1m[38;2;35;8;15mT [39m[0m[0m[5m[1m[38;2;5;11;38mE [39m[0m[0m[5m[1m[38;2;176;218;241m! [39m[0m[0m
